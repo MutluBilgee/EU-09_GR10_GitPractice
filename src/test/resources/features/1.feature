@@ -8,5 +8,5 @@ Feature:
     And "Event Calendar" title should display top of the calendar.
 
 
-    #Eldar II
+
 
