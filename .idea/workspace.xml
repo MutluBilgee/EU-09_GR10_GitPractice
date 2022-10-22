@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eea88f0-e13d-461c-81ff-f2948ba828eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4eea88f0-e13d-461c-81ff-f2948ba828eb" name="Default Changelist" comment="mutlu and eldar branches are crated">
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/1.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/1.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +73,28 @@
       <option name="presentableId" value="Default" />
       <updated>1663349307114</updated>
     </task>
+    <task id="LOCAL-00001" summary="1.feature has been updated">
+      <created>1666459435291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666459435291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.feature has been updated">
+      <created>1666459458982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666459458982</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mutlu and eldar branches are crated">
+      <created>1666459922456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666459922456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.feature has been updated" />
+    <MESSAGE value="mutlu and eldar branches are crated" />
+    <option name="LAST_COMMIT_MESSAGE" value="mutlu and eldar branches are crated" />
   </component>
 </project>
