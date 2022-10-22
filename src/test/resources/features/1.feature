@@ -8,8 +8,5 @@ Feature:
     And "Event Calendar" title should display top of the calendar.
 
 
-    #ELDAR
-  #(•_•)
- # <)   )╯all the single ladies
- # /    \
+
 
