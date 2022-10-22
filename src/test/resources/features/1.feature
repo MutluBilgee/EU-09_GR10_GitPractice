@@ -8,12 +8,5 @@ Feature:
     And "Event Calendar" title should display top of the calendar.
 
 
-    #New feature will be added
-
-
-  #New feature will be added
-
-  #New feature will be added
-
-  #New feature will be added
+    #ELDAR
 
