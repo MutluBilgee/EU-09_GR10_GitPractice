@@ -7,3 +7,6 @@ Feature:
     Then The helpdesk user clicks to Meeting Room Booking Calendar View link
     And "Event Calendar" title should display top of the calendar.
 
+
+    #New feature will bee added
+
